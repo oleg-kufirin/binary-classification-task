@@ -2,11 +2,11 @@
 ## Assignment for *"Neural Networks and Deep Learning"* class at UNSW
 ### Received mark: 16/16
 
-In this part, we will develop a linear model to solve a binary classification task on two dimensional data. The file https://www.cse.unsw.edu.au/~cs9444/19T3/hw1/hw1/data/ contains the data for this part. We have included the file used to generate the data as *data_generator.py*. You may examine this for your reference, or modify it if you wish to watch Gradient Decent take place on different data. Note that running this file will replace the pickle file with another stochastically generated dataset. This shouldn't cause your solution to fail, but it will cause the final output image to appear different. It is good to check that your file works with the original pickle file provided.
+In this part, we will develop a linear model to solve a binary classification task on two dimensional data. The file the attached files contain the data for this part. We have included the file used to generate the data as *data_generator.py*. You may examine this for your reference, or modify it if you wish to watch Gradient Decent take place on different data. Note that running this file will replace the pickle file with another stochastically generated dataset. This shouldn't cause your solution to fail, but it will cause the final output image to appear different. It is good to check that your file works with the original pickle file provided.
 
 A correct implementation should produce the following image, along with model accuracies at each training step printed to *stdout*:
 
-<img src="part2_run1.jpg" alt="part2_run1" width="300"/>
+<img src="part2_run1.jpg" alt="part2_run1" width="400"/>
 
 Example output from a correctly implemented Part 2.
 
